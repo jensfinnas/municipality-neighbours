@@ -1,0 +1,291 @@
+county,name_short,neighbours,fa_region,skl_code,muni_group,name_long
+Uppsala län,Heby,"Tierp,Uppsala,Enköping,Sala,Gävle,Sandviken,Avesta",Oskarshamn,0331,Varuproducerande kommuner,Heby kommun
+Kalmar län,Nybro,"Emmaboda,Lessebo,Uppvidinge,Kalmar,Mönsterås,Högsby",Trollhättan,0881,Större städer,Nybro kommun
+Örebro län,Laxå,"Lekeberg,Töreboda,Karlsborg,Kristinehamn,Gullspång,Degerfors,Hallsberg,Askersund",Kristianstad,1860,Större städer,Laxå kommun
+Värmlands län,Filipstad,"Karlstad,Storfors,Ludvika,Hällefors,Malung-Sälen,Vansbro,Hagfors",Östergötland,1782,Kommuner i tätbefolkad region,Filipstads kommun
+Örebro län,Hallsberg,"Finspång,Motala,Lekeberg,Laxå,Kumla,Örebro,Askersund",Växjö,1861,Större städer,Hallsbergs kommun
+Dalarnas län,Gagnef,"Ludvika,Leksand,Vansbro,Falun,Borlänge",Jönköping,2026,Förortskommuner till större städer,Gagnefs kommun
+Skåne län,Skurup,"Trelleborg,Lund,Svedala,Ystad,Sjöbo",Fagersta,1264,Pendlingskommuner,Skurups kommun
+Örebro län,Karlskoga,"Lekeberg,Storfors,Kristinehamn,Degerfors,Nora,Hällefors,Örebro",Malmö,1883,Förortskommuner till större städer,Karlskoga kommun
+Västmanlands län,Kungsör,"Eskilstuna,Köping,Arboga",Kristianstad,1960,Större städer,Kungsörs kommun
+Jönköpings län,Mullsjö,"Ulricehamn,Falköping,Tidaholm,Habo,Jönköping",Göteborg,0642,Varuproducerande kommuner,Mullsjö kommun
+Södermanlands län,Trosa,"Södertälje,Gnesta,Nyköping",Östersund,0488,Turism- och besöksnäringskommuner,Trosa kommun
+Hallands län,Falkenberg,"Svenljunga,Mark,Varberg,Hylte,Halmstad,Gislaved",Östergötland,1382,Större städer,Falkenbergs kommun
+Jönköpings län,Vaggeryd,"Nässjö,Sävsjö,Värnamo,Gnosjö,Gislaved,Jönköping",Storuman,0665,Turism- och besöksnäringskommuner,Vaggeryds kommun
+Stockholms län,Norrtälje,"Östhammar,Vallentuna,Knivsta,Sigtuna,Uppsala,Österåker",Strömstad,0188,Turism- och besöksnäringskommuner,Norrtälje kommun
+Västmanlands län,Sala,"Heby,Enköping,Norberg,Fagersta,Surahammar,Västerås,Sandviken,Avesta",Hällefors,1981,Kommuner i tätbefolkad region,Sala kommun
+Norrbottens län,Älvsbyn,"Arvidsjaur,Piteå,Luleå,Boden,Jokkmokk",Stockholm,2560,Förortskommuner till storstäderna,Älvsbyns kommun
+Värmlands län,Årjäng,"Säffle,Åmål,Bengtsfors,Dals-Ed,Arvika,Eda",Stockholm,1765,Förortskommuner till storstäderna,Årjängs kommun
+Västerbottens län,Umeå,"Vindeln,Nordmaling,Skellefteå,Robertsfors,Vännäs",Umeå,2480,Glesbygdkommuner,Umeå kommun
+Västmanlands län,Västerås,"Enköping,Köping,Sala,Surahammar,Hallstahammar",Jokkmokk,1980,Turism- och besöksnäringskommuner,Västerås stad
+Kalmar län,Mörbylånga,Borgholm,Göteborg,0840,Kommuner i tätbefolkad region,Mörbylånga kommun
+Västmanlands län,Arboga,"Kungsör,Eskilstuna,Lindesberg,Örebro,Köping",Stockholm,1984,Förortskommuner till storstäderna,Arboga kommun
+Västmanlands län,Köping,"Kungsör,Lindesberg,Skinnskatteberg,Arboga,Surahammar,Västerås,Hallstahammar",Malmö,1983,Storstäder,Köpings kommun
+Skåne län,Örkelljunga,"Hässleholm,Laholm,Perstorp,Klippan,Ängelholm,Markaryd",Skövde,1257,Pendlingskommuner,Örkelljunga kommun
+Östergötlands län,Vadstena,"Motala,Mjölby,Ödeshög",Lycksele,0584,Varuproducerande kommuner,Vadstena kommun
+Västernorrlands län,Sundsvall,"Ånge,Nordanstig,Bräcke,Härnösand,Timrå,Sollefteå,Ragunda",Ludvika,2281,Varuproducerande kommuner,Sundsvalls kommun
+Stockholms län,Vaxholm,"Lidingö,Österåker",Luleå,0187,Kommuner i glesbefolkad region,Vaxholms stad
+Hallands län,Varberg,"Svenljunga,Falkenberg,Mark,Kungsbacka",Lycksele,1383,Kommuner i glesbefolkad region,Varbergs kommun
+Gävleborgs län,Ljusdal,"Orsa,Rättvik,Härjedalen,Ånge,Ovanåker,Nordanstig,Hudiksvall,Bollnäs",Göteborg,2161,Pendlingskommuner,Ljusdals kommun
+Västernorrlands län,Timrå,"Härnösand,Sundsvall,Sollefteå",Sundsvall,2262,Glesbygdkommuner,Timrå kommun
+Örebro län,Ljusnarsberg,"Ludvika,Hällefors,Lindesberg,Smedjebacken",Göteborg,1864,Pendlingskommuner,Ljusnarsbergs kommun
+Jämtlands län,Östersund,"Berg,Krokom,Bräcke,Strömsund,Ragunda",Karlstad,2380,Förortskommuner till större städer,Östersunds kommun
+Jönköpings län,Habo,"Hjo,Tidaholm,Mullsjö,Jönköping",Växjö,0643,Varuproducerande kommuner,Habo kommun
+Norrbottens län,Luleå,"Piteå,Boden,Älvsbyn,Kalix,Överkalix",Strömstad,2580,Turism- och besöksnäringskommuner,Luleå kommun
+Södermanlands län,Eskilstuna,"Strängnäs,Kungsör,Flen,Katrineholm,Arboga",Östergötland,0484,Pendlingskommuner,Eskilstuna kommun
+Västerbottens län,Bjurholm,"Vindeln,Nordmaling,Lycksele,Örnsköldsvik,Åsele,Vännäs",Stockholm,2403,Förortskommuner till storstäderna,Bjurholms kommun
+Västra Götalands län,Grästorp,"Vänersborg,Trollhättan,Vara,Essunga,Lidköping",Tranås,1444,Varuproducerande kommuner,Grästorps kommun
+Östergötlands län,Motala,"Finspång,Mjölby,Linköping,Vadstena,Hallsberg,Askersund",Borås,0583,Kommuner i tätbefolkad region,Motala kommun
+Örebro län,Lekeberg,"Laxå,Degerfors,Karlskoga,Kumla,Örebro,Hallsberg",Halmstad,1814,Varuproducerande kommuner,Lekebergs kommun
+Östergötlands län,Åtvidaberg,"Västervik,Valdemarsvik,Söderköping,Linköping,Kinda",Stockholm,0561,Förortskommuner till storstäderna,Åtvidabergs kommun
+Värmlands län,Sunne,"Arvika,Forshaga,Munkfors,Torsby,Kil,Hagfors",Gävle,1766,Pendlingskommuner,Sunne kommun
+Västra Götalands län,Svenljunga,"Borås,Falkenberg,Mark,Varberg,Tranemo,Gislaved",Ljusdal,1465,Glesbygdkommuner,Svenljunga kommun
+Västra Götalands län,Mariestad,"Götene,Töreboda,Skövde,Gullspång",Trollhättan,1493,Förortskommuner till större städer,Mariestads kommun
+Västerbottens län,Vilhelmina,"Lycksele,Storuman,Dorotea,Åsele,Strömsund",Luleå,2462,Kommuner i glesbefolkad region,Vilhelmina kommun
+Jämtlands län,Ragunda,"Östersund,Bräcke,Sundsvall,Strömsund,Sollefteå",Karlstad,2303,Kommuner i tätbefolkad region,Ragunda kommun
+Västra Götalands län,Vänersborg,"Uddevalla,Mellerud,Färgelanda,Trollhättan,Lilla Edet,Grästorp,Lidköping",Umeå,1487,Pendlingskommuner,Vänersborgs kommun
+Östergötlands län,Linköping,"Söderköping,Åtvidaberg,Norrköping,Finspång,Motala,Mjölby,Boxholm,Kinda",Göteborg,0580,Förortskommuner till storstäderna,Linköpings kommun
+Stockholms län,Sollentuna,"Upplands Väsby,Järfälla,Sundbyberg,Stockholm,Täby,Danderyd,Solna",Vansbro,0163,Glesbygdkommuner,Sollentuna kommun
+Stockholms län,Danderyd,"Sollentuna,Lidingö,Stockholm,Täby,Solna",Eskilstuna,0162,Kommuner i tätbefolkad region,Danderyds kommun
+Västra Götalands län,Gullspång,"Mariestad,Töreboda,Kristinehamn,Laxå,Degerfors",Växjö,1447,Pendlingskommuner,Gullspångs kommun
+Värmlands län,Kil,"Arvika,Sunne,Forshaga,Karlstad,Grums",Älmhult,1715,Pendlingskommuner,Kils kommun
+Värmlands län,Arvika,"Säffle,Sunne,Årjäng,Torsby,Eda,Kil,Grums",Stockholm,1784,Storstäder,Arvika kommun
+Västra Götalands län,Tidaholm,"Skövde,Hjo,Falköping,Mullsjö,Habo",Söderhamn,1498,Kommuner i glesbefolkad region,Tidaholms kommun
+Uppsala län,Knivsta,"Sigtuna,Håbo,Uppsala,Norrtälje",Malmö,0330,Turism- och besöksnäringskommuner,Knivsta kommun
+Västra Götalands län,Bollebygd,"Borås,Mark,Härryda,Alingsås,Lerum,Vårgårda",Stockholm,1443,Förortskommuner till större städer,Bollebygds kommun
+Uppsala län,Östhammar,"Tierp,Uppsala,Norrtälje",Karlstad,0382,Varuproducerande kommuner,Östhammars kommun
+Västra Götalands län,Stenungsund,"Kungälv,Uddevalla,Orust,Lilla Edet",Mora,1415,Turism- och besöksnäringskommuner,Stenungsunds kommun
+Stockholms län,Upplands-Bro,"Upplands Väsby,Järfälla,Ekerö,Sigtuna,Håbo",Umeå,0139,Glesbygdkommuner,Upplands-Bro kommun
+Skåne län,Eslöv,"Kävlinge,Lund,Höör,Hörby,Sjöbo,Svalöv,Klippan",Östergötland,1285,Varuproducerande kommuner,Eslövs kommun
+Jämtlands län,Krokom,"Åre,Östersund,Strömsund",Malmö,2309,Pendlingskommuner,Krokoms kommun
+Stockholms län,Värmdö,Nacka,Arvidsjaur,0120,Kommuner i glesbefolkad region,Värmdö kommun
+Västmanlands län,Norberg,"Smedjebacken,Fagersta,Sala,Avesta,Hedemora",Göteborg,1962,Förortskommuner till storstäderna,Norbergs kommun
+Västerbottens län,Malå,"Arvidsjaur,Norsjö,Lycksele,Sorsele",Göteborg,2418,Förortskommuner till storstäderna,Malå kommun
+Värmlands län,Kristinehamn,"Karlstad,Storfors,Gullspång,Laxå,Degerfors,Karlskoga",Malmö,1781,Större städer,Kristinehamns kommun
+Skåne län,Svedala,"Trelleborg,Burlöv,Staffanstorp,Lund,Malmö,Vellinge,Skurup",Hudiksvall,1263,Glesbygdkommuner,Svedala kommun
+Södermanlands län,Nyköping,"Trosa,Norrköping,Flen,Katrineholm,Gnesta,Oxelösund",Göteborg,0480,Pendlingskommuner,Nyköpings kommun
+Skåne län,Bjuv,"Helsingborg,Svalöv,Åstorp",Stockholm,1260,Förortskommuner till storstäderna,Bjuvs kommun
+Stockholms län,Haninge,"Nynäshamn,Botkyrka,Tyresö,Huddinge",Kalmar,0136,Förortskommuner till större städer,Haninge kommun
+Dalarnas län,Smedjebacken,"Ludvika,Lindesberg,Ljusnarsberg,Norberg,Fagersta,Skinnskatteberg,Säter,Hedemora",Västerås,2061,Större städer,Smedjebackens kommun
+Västra Götalands län,Härryda,"Mölndal,Göteborg,Partille,Mark,Bollebygd,Kungsbacka,Lerum",Kalmar,1401,Större städer,Härryda kommun
+Kronobergs län,Alvesta,"Tingsryd,Växjö,Ljungby,Älmhult,Sävsjö,Värnamo",Stockholm,0764,Förortskommuner till storstäderna,Alvesta kommun
+Dalarnas län,Malung-Sälen,"Torsby,Älvdalen,Mora,Vansbro,Hagfors,Filipstad",Göteborg,2023,Förortskommuner till storstäderna,Malung-Sälens kommun
+Kalmar län,Borgholm,Mörbylånga,Stockholm,0885,Större städer,Borgholms kommun
+Värmlands län,Karlstad,"Forshaga,Kil,Storfors,Grums,Kristinehamn,Hammarö,Hagfors,Filipstad",Malmö,1780,Förortskommuner till större städer,Karlstads kommun
+Stockholms län,Nykvarn,"Strängnäs,Södertälje,Gnesta",Borås,0140,Större städer,Nykvarns kommun
+Södermanlands län,Strängnäs,"Nykvarn,Eskilstuna,Flen,Gnesta",Falun/Borlänge,0486,Kommuner i tätbefolkad region,Strängnäs kommun
+Dalarnas län,Rättvik,"Orsa,Leksand,Mora,Ljusdal,Ovanåker,Falun",Örebro,2031,Förortskommuner till större städer,Rättviks kommun
+Stockholms län,Sundbyberg,"Sollentuna,Stockholm,Solna",Avesta,0183,Varuproducerande kommuner,Sundbybergs stad
+Västerbottens län,Sorsele,"Arvidsjaur,Malå,Lycksele,Storuman,Arjeplog",Falun/Borlänge,2422,Kommuner i tätbefolkad region,Sorsele kommun
+Jämtlands län,Bräcke,"Berg,Östersund,Ånge,Sundsvall,Ragunda",Stockholm,2305,Förortskommuner till större städer,Bräcke kommun
+Västmanlands län,Hallstahammar,"Köping,Surahammar,Västerås",Ljungby,1961,Varuproducerande kommuner,Hallstahammars kommun
+Kalmar län,Vimmerby,"Eksjö,Oskarshamn,Hultsfred,Västervik,Kinda,Ydre",Luleå,0884,Större städer,Vimmerby kommun
+Västra Götalands län,Lysekil,"Munkedal,Sotenäs,Uddevalla,Orust",Göteborg,1484,Förortskommuner till storstäderna,Lysekils kommun
+Värmlands län,Torsby,"Arvika,Sunne,Malung-Sälen,Hagfors",Örnsköldsvik,1737,Större städer,Torsby kommun
+Västra Götalands län,Vårgårda,"Borås,Bollebygd,Alingsås,Herrljunga,Essunga",Skellefteå,1442,Större städer,Vårgårda kommun
+Uppsala län,Tierp,"Heby,Östhammar,Älvkarleby,Uppsala,Gävle",Hudiksvall,0360,Kommuner i glesbefolkad region,Tierps kommun
+Västra Götalands län,Karlsborg,"Töreboda,Tibro,Hjo,Laxå,Askersund",Malmö,1446,Förortskommuner till storstäderna,Karlsborgs kommun
+Blekinge län,Olofström,"Kristianstad,Bromölla,Östra Göinge,Osby,Sölvesborg,Karlshamn,Tingsryd,Älmhult",Skövde,1060,Kommuner i tätbefolkad region,Olofströms kommun
+Värmlands län,Säffle,"Åmål,Bengtsfors,Arvika,Årjäng,Grums",Karlskoga,1785,Pendlingskommuner,Säffle kommun
+Västra Götalands län,Borås,"Svenljunga,Mark,Bollebygd,Herrljunga,Vårgårda,Ulricehamn,Tranemo",Stockholm,1490,Varuproducerande kommuner,Borås stad
+Dalarnas län,Avesta,"Heby,Norberg,Sala,Hofors,Sandviken,Hedemora",Stockholm,2084,Förortskommuner till storstäderna,Avesta kommun
+Västra Götalands län,Mark,"Mölndal,Borås,Svenljunga,Falkenberg,Varberg,Bollebygd,Härryda,Kungsbacka",Göteborg,1463,Pendlingskommuner,Markaryds kommun
+Norrbottens län,Pajala,"Kiruna,Gällivare,Övertorneå,Överkalix",Karlstad,2521,Kommuner i tätbefolkad region,Pajala kommun
+Norrbottens län,Jokkmokk,"Arvidsjaur,Boden,Älvsbyn,Gällivare,Arjeplog",Malmö,2510,Varuproducerande kommuner,Jokkmokks kommun
+Norrbottens län,Boden,"Piteå,Luleå,Älvsbyn,Gällivare,Jokkmokk,Överkalix",Gävle,2582,Förortskommuner till större städer,Bodens kommun
+Kalmar län,Emmaboda,"Ronneby,Lessebo,Tingsryd,Karlskrona,Nybro,Kalmar,Torsås",Östergötland,0862,Kommuner i tätbefolkad region,Emmaboda kommun
+Skåne län,Osby,"Hässleholm,Kristianstad,Olofström,Östra Göinge,Älmhult,Markaryd",Eda,1273,Kommuner i glesbefolkad region,Osby kommun
+Dalarnas län,Ludvika,"Hällefors,Vansbro,Filipstad,Gagnef,Ljusnarsberg,Smedjebacken,Borlänge,Säter",Trollhättan,2085,Pendlingskommuner,Ludvika kommun
+Västerbottens län,Robertsfors,"Skellefteå,Umeå",Örebro,2409,Varuproducerande kommuner,Robertsfors kommun
+Dalarnas län,Mora,"Orsa,Rättvik,Leksand,Härjedalen,Älvdalen,Malung-Sälen,Vansbro",Göteborg,2062,Förortskommuner till storstäderna,Mora kommun
+Kronobergs län,Älmhult,"Hässleholm,Olofström,Osby,Tingsryd,Alvesta,Ljungby,Markaryd",Stockholm,0765,Förortskommuner till storstäderna,Älmhults kommun
+Kronobergs län,Markaryd,"Hässleholm,Laholm,Örkelljunga,Osby,Ljungby,Älmhult",Skövde,0767,Kommuner i tätbefolkad region,Marks kommun
+Västra Götalands län,Mölndal,"Göteborg,Mark,Härryda,Kungsbacka",Bengtsfors,1481,Varuproducerande kommuner,Mölndals stad
+Skåne län,Höganäs,Helsingborg,Blekinge,1284,Större städer,Höganäs kommun
+Gävleborgs län,Bollnäs,"Ockelbo,Ljusdal,Ovanåker,Falun,Hudiksvall,Söderhamn",Stockholm,2183,Pendlingskommuner,Bollnäs kommun
+Västerbottens län,Lycksele,"Vindeln,Norsjö,Bjurholm,Malå,Sorsele,Storuman,Vilhelmina,Åsele",Trollhättan,2481,Pendlingskommuner,Lycksele kommun
+Västra Götalands län,Strömstad,Tanum,Falun/Borlänge,1486,Pendlingskommuner,Strömstads kommun
+Västra Götalands län,Herrljunga,"Borås,Vara,Vårgårda,Essunga,Ulricehamn,Falköping",Kalmar,1466,Turism- och besöksnäringskommuner,Herrljunga kommun
+Hallands län,Hylte,"Falkenberg,Halmstad,Ljungby,Gislaved",Malmö,1315,Förortskommuner till storstäderna,Hylte kommun
+Örebro län,Nora,"Karlskoga,Hällefors,Lindesberg,Örebro",Göteborg,1884,Storstäder,Nora kommun
+Stockholms län,Upplands Väsby,"Upplands-Bro,Sollentuna,Järfälla,Vallentuna,Sigtuna,Täby",Umeå,0114,Pendlingskommuner,Upplands Väsby kommun
+Jämtlands län,Berg,"Härjedalen,Åre,Östersund,Ånge,Bräcke",Stockholm,2326,Pendlingskommuner,Bergs kommun
+Skåne län,Hässleholm,"Kristianstad,Höör,Hörby,Perstorp,Örkelljunga,Klippan,Östra Göinge,Osby,Älmhult,Markaryd",Kalmar,1293,Varuproducerande kommuner,Hässleholms kommun
+Skåne län,Trelleborg,"Lund,Svedala,Vellinge,Skurup",Östersund,1287,Pendlingskommuner,Trelleborgs kommun
+Skåne län,Malmö,"Lomma,Burlöv,Staffanstorp,Svedala,Vellinge",Göteborg,1280,Pendlingskommuner,Malmö stad
+Västmanlands län,Surahammar,"Fagersta,Skinnskatteberg,Köping,Sala,Västerås,Hallstahammar",Gävle,1907,Varuproducerande kommuner,Surahammars kommun
+Skåne län,Kristianstad,"Hässleholm,Simrishamn,Tomelilla,Hörby,Olofström,Bromölla,Östra Göinge,Osby",Malmö,1290,Kommuner i tätbefolkad region,Kristianstads kommun
+Kronobergs län,Lessebo,"Emmaboda,Uppvidinge,Tingsryd,Växjö,Nybro",Halmstad,0761,Kommuner i tätbefolkad region,Lessebo kommun
+Jönköpings län,Gislaved,"Svenljunga,Falkenberg,Hylte,Ljungby,Tranemo,Vaggeryd,Värnamo,Gnosjö,Jönköping",Jönköping,0662,Större städer,Gislaveds kommun
+Uppsala län,Uppsala,"Heby,Östhammar,Knivsta,Sigtuna,Håbo,Tierp,Enköping,Norrtälje",Umeå,0380,Glesbygdkommuner,Uppsala kommun
+Jönköpings län,Sävsjö,"Vetlanda,Växjö,Alvesta,Nässjö,Vaggeryd,Värnamo",Örebro,0684,Varuproducerande kommuner,Sävsjö kommun
+Gävleborgs län,Ockelbo,"Gävle,Sandviken,Falun,Söderhamn,Bollnäs",Karlstad,2101,Kommuner i tätbefolkad region,Ockelbo kommun
+Västra Götalands län,Essunga,"Alingsås,Trollhättan,Vara,Herrljunga,Vårgårda,Grästorp",Östergötland,1445,Turism- och besöksnäringskommuner,Essunga kommun
+Värmlands län,Hammarö,Karlstad,Kalmar,1761,Varuproducerande kommuner,Hammarö kommun
+Kalmar län,Högsby,"Uppvidinge,Vetlanda,Oskarshamn,Nybro,Mönsterås,Hultsfred",Blekinge,0821,Kommuner i tätbefolkad region,Högsby kommun
+Västerbottens län,Skellefteå,"Arvidsjaur,Vindeln,Norsjö,Piteå,Robertsfors,Umeå",Västerås,2482,Pendlingskommuner,Skellefteå kommun
+Gävleborgs län,Nordanstig,"Ånge,Ljusdal,Hudiksvall,Sundsvall",Göteborg,2132,Förortskommuner till storstäderna,Nordanstigs kommun
+Skåne län,Östra Göinge,"Hässleholm,Kristianstad,Olofström,Osby",Karlstad,1256,Förortskommuner till större städer,Östra Göinge kommun
+Södermanlands län,Katrineholm,"Norrköping,Vingåker,Finspång,Eskilstuna,Flen,Nyköping",Malmö,0483,Pendlingskommuner,Katrineholms kommun
+Hallands län,Laholm,"Örkelljunga,Ängelholm,Båstad,Halmstad,Ljungby,Markaryd",Malmö,1381,Kommuner i tätbefolkad region,Laholms kommun
+Jönköpings län,Jönköping,"Tranås,Ödeshög,Aneby,Ulricehamn,Tranemo,Nässjö,Vaggeryd,Gislaved,Mullsjö,Habo",Malmö,0680,Förortskommuner till större städer,Jönköpings kommun
+Örebro län,Askersund,"Motala,Karlsborg,Laxå,Hallsberg",Stockholm,1882,Förortskommuner till storstäderna,Askersunds kommun
+Kalmar län,Mönsterås,"Oskarshamn,Nybro,Kalmar,Högsby",Trollhättan,0861,Kommuner i tätbefolkad region,Mönsterås kommun
+Skåne län,Kävlinge,"Eslöv,Lomma,Lund,Svalöv,Landskrona",Kristianstad,1261,Pendlingskommuner,Kävlinge kommun
+Kalmar län,Västervik,"Oskarshamn,Vimmerby,Valdemarsvik,Åtvidaberg,Kinda",Överkalix,0883,Glesbygdkommuner,Västerviks kommun
+Västra Götalands län,Tranemo,"Borås,Svenljunga,Ulricehamn,Gislaved,Jönköping",Östersund,1452,Glesbygdkommuner,Tranemo kommun
+Västra Götalands län,Falköping,"Skara,Vara,Herrljunga,Ulricehamn,Skövde,Tidaholm,Mullsjö",Östergötland,1499,Förortskommuner till större städer,Falköpings kommun
+Stockholms län,Täby,"Upplands Väsby,Sollentuna,Vallentuna,Österåker,Danderyd",Gävle,0160,Större städer,Täby kommun
+Kalmar län,Torsås,"Emmaboda,Karlskrona,Kalmar",Sollefteå,0834,Glesbygdkommuner,Torsås kommun
+Kalmar län,Oskarshamn,"Mönsterås,Högsby,Hultsfred,Vimmerby,Västervik",Torsby,0882,Glesbygdkommuner,Oskarshamns kommun
+Västra Götalands län,Bengtsfors,"Säffle,Åmål,Dals-Ed,Mellerud,Färgelanda,Årjäng",Stockholm,1460,Turism- och besöksnäringskommuner,Bengtsfors kommun
+Kalmar län,Hultsfred,"Uppvidinge,Eksjö,Vetlanda,Oskarshamn,Högsby,Vimmerby",Malmö,0860,Förortskommuner till storstäderna,Hultsfreds kommun
+Skåne län,Bromölla,"Kristianstad,Olofström,Sölvesborg",Nyköping,1272,Större städer,Bromölla kommun
+Norrbottens län,Piteå,"Arvidsjaur,Skellefteå,Luleå,Boden,Älvsbyn",Karlstad,2581,Varuproducerande kommuner,Piteå kommun
+Västerbottens län,Storuman,"Lycksele,Sorsele,Vilhelmina",Falun/Borlänge,2421,Större städer,Storumans kommun
+Västmanlands län,Skinnskatteberg,"Lindesberg,Smedjebacken,Fagersta,Köping,Surahammar",Västerås,1904,Pendlingskommuner,Skinnskattebergs kommun
+Gävleborgs län,Hudiksvall,"Ånge,Ljusdal,Nordanstig,Söderhamn,Bollnäs",Malmö,2184,Förortskommuner till storstäderna,Hudiksvalls kommun
+Södermanlands län,Gnesta,"Strängnäs,Trosa,Södertälje,Nykvarn,Flen,Nyköping",Jönköping,0461,Kommuner i tätbefolkad region,Gnesta kommun
+Kronobergs län,Uppvidinge,"Lessebo,Vetlanda,Växjö,Nybro,Högsby,Hultsfred",Skellefteå,0760,Varuproducerande kommuner,Uppvidinge kommun
+Västra Götalands län,Göteborg,"Kungälv,Mölndal,Partille,Öckerö,Härryda,Kungsbacka,Lerum,Ale",Vetlanda,1480,Varuproducerande kommuner,Göteborgs stad
+Värmlands län,Hagfors,"Sunne,Forshaga,Munkfors,Torsby,Karlstad,Malung-Sälen,Filipstad",Älmhult,1783,Kommuner i tätbefolkad region,Hagfors kommun
+Västra Götalands län,Partille,"Göteborg,Härryda,Lerum",Filipstad,1402,Varuproducerande kommuner,Partille kommun
+Stockholms län,Sigtuna,"Upplands Väsby,Upplands-Bro,Vallentuna,Knivsta,Håbo,Uppsala,Norrtälje",Karlskoga,0191,Varuproducerande kommuner,Sigtuna kommun
+Örebro län,Kumla,"Lekeberg,Örebro,Hallsberg",Malmö,1881,Förortskommuner till större städer,Kumla kommun
+Västra Götalands län,Hjo,"Karlsborg,Tibro,Skövde,Tidaholm,Habo",Gotland,1497,Turism- och besöksnäringskommuner,Hjo kommun
+Skåne län,Lomma,"Kävlinge,Burlöv,Staffanstorp,Lund,Malmö",Trollhättan,1262,Turism- och besöksnäringskommuner,Lomma kommun
+Västra Götalands län,Färgelanda,"Munkedal,Uddevalla,Bengtsfors,Dals-Ed,Mellerud,Vänersborg",Östergötland,1439,Pendlingskommuner,Färgelanda kommun
+Västra Götalands län,Dals-Ed,"Munkedal,Tanum,Bengtsfors,Färgelanda,Årjäng",Eskilstuna,1438,Kommuner i tätbefolkad region,Dals-Eds kommun
+Kronobergs län,Tingsryd,"Olofström,Karlshamn,Ronneby,Emmaboda,Lessebo,Växjö,Alvesta,Älmhult",Sundsvall,0763,Förortskommuner till större städer,Tingsryds kommun
+Jönköpings län,Gnosjö,"Vaggeryd,Värnamo,Gislaved",Värnamo,0617,Varuproducerande kommuner,Gnosjö kommun
+Västra Götalands län,Alingsås,"Bollebygd,Lerum,Trollhättan,Ale,Vårgårda,Essunga",Stockholm,1489,Förortskommuner till storstäderna,Alingsås kommun
+Stockholms län,Södertälje,"Trosa,Nykvarn,Botkyrka,Salem,Gnesta",Västerås,0181,Varuproducerande kommuner,Södertälje kommun
+Hallands län,Halmstad,"Laholm,Falkenberg,Hylte,Ljungby",Oskarshamn,1380,Pendlingskommuner,Halmstads kommun
+Västra Götalands län,Munkedal,"Tanum,Sotenäs,Uddevalla,Lysekil,Dals-Ed,Färgelanda",Lidköping,1430,Varuproducerande kommuner,Munkedals kommun
+Stockholms län,Ekerö,"Botkyrka,Salem,Upplands-Bro,Stockholm",Östergötland,0125,Pendlingskommuner,Ekerö kommun
+Västra Götalands län,Töreboda,"Mariestad,Karlsborg,Tibro,Skövde,Gullspång,Laxå",Kramfors,1473,Kommuner i glesbefolkad region,Töreboda kommun
+Västra Götalands län,Sotenäs,"Munkedal,Tanum,Lysekil",Falun/Borlänge,1427,Turism- och besöksnäringskommuner,Sotenäs kommun
+Östergötlands län,Mjölby,"Motala,Linköping,Boxholm,Vadstena,Ödeshög",Värnamo,0586,Varuproducerande kommuner,Mjölby kommun
+Skåne län,Båstad,"Laholm,Ängelholm",Stockholm,1278,Förortskommuner till storstäderna,Båstads kommun
+Västra Götalands län,Mellerud,"Åmål,Bengtsfors,Färgelanda,Vänersborg",Skövde,1461,Varuproducerande kommuner,Melleruds kommun
+Gotlands län,Gotland,,Jönköping,0980,Kommuner i tätbefolkad region,Gotland
+Dalarnas län,Säter,"Ludvika,Smedjebacken,Hofors,Falun,Borlänge,Hedemora",Örebro,2082,Förortskommuner till större städer,Säters kommun
+Dalarnas län,Falun,"Rättvik,Leksand,Gagnef,Ockelbo,Hofors,Sandviken,Ovanåker,Borlänge,Säter,Hedemora,Bollnäs",Östergötland,2080,Kommuner i tätbefolkad region,Falu kommun
+Norrbottens län,Haparanda,"Övertorneå,Kalix",Vimmerby,2583,Varuproducerande kommuner,Haparanda stad
+Gävleborgs län,Ovanåker,"Rättvik,Ljusdal,Falun,Bollnäs",Karlstad,2121,Varuproducerande kommuner,Ovanåkers kommun
+Östergötlands län,Söderköping,"Valdemarsvik,Åtvidaberg,Norrköping,Linköping",Fagersta,0582,Varuproducerande kommuner,Söderköpings kommun
+Södermanlands län,Vingåker,"Finspång,Katrineholm,Örebro",Luleå,0428,Kommuner i glesbefolkad region,Vingåkers kommun
+Örebro län,Örebro,"Vingåker,Finspång,Lekeberg,Karlskoga,Nora,Kumla,Lindesberg,Hallsberg,Arboga",Skövde,1880,Större städer,Örebro kommun
+Dalarnas län,Älvdalen,"Härjedalen,Mora,Malung-Sälen",Stockholm,2039,Förortskommuner till storstäderna,Älvdalens kommun
+Stockholms län,Salem,"Södertälje,Botkyrka,Ekerö",Ludvika,0128,Varuproducerande kommuner,Salems kommun
+Jönköpings län,Värnamo,"Alvesta,Ljungby,Sävsjö,Vaggeryd,Gnosjö,Gislaved",Arjeplog,0683,Turism- och besöksnäringskommuner,Värnamo kommun
+Jönköpings län,Tranås,"Boxholm,Ydre,Ödeshög,Aneby,Jönköping",Östersund,0687,Glesbygdkommuner,Tranås kommun
+Dalarnas län,Vansbro,"Ludvika,Leksand,Mora,Malung-Sälen,Filipstad,Gagnef",Åsele,2021,Glesbygdkommuner,Vansbro kommun
+Skåne län,Perstorp,"Hässleholm,Örkelljunga,Klippan",Hagfors,1275,Varuproducerande kommuner,Perstorps kommun
+Jönköpings län,Aneby,"Eksjö,Ydre,Tranås,Nässjö,Jönköping",Stockholm,0604,Förortskommuner till storstäderna,Aneby kommun
+Västernorrlands län,Sollefteå,"Härnösand,Timrå,Sundsvall,Kramfors,Örnsköldsvik,Dorotea,Åsele,Strömsund,Ragunda",Västerås,2283,Varuproducerande kommuner,Sollefteå kommun
+Jönköpings län,Nässjö,"Eksjö,Vetlanda,Aneby,Sävsjö,Vaggeryd,Jönköping",Skövde,0682,Varuproducerande kommuner,Nässjö kommun
+Skåne län,Klippan,"Eslöv,Hässleholm,Höör,Svalöv,Perstorp,Örkelljunga,Åstorp,Ängelholm",Malmö,1276,Förortskommuner till större städer,Klippans kommun
+Skåne län,Svalöv,"Eslöv,Kävlinge,Helsingborg,Bjuv,Landskrona,Klippan,Åstorp",Söderhamn,1214,Varuproducerande kommuner,Svalövs kommun
+Jönköpings län,Vetlanda,"Uppvidinge,Eksjö,Växjö,Högsby,Hultsfred,Nässjö,Sävsjö",Gällivare,0685,Varuproducerande kommuner,Vetlanda kommun
+Västra Götalands län,Skara,"Götene,Vara,Lidköping,Skövde,Falköping",Fagersta,1495,Pendlingskommuner,Skara kommun
+Östergötlands län,Finspång,"Norrköping,Vingåker,Motala,Linköping,Katrineholm,Örebro,Hallsberg",Jönköping,0562,Pendlingskommuner,Finspångs kommun
+Blekinge län,Sölvesborg,"Olofström,Bromölla,Karlshamn",Falun/Borlänge,1083,Pendlingskommuner,Sölvesborgs kommun
+Skåne län,Helsingborg,"Bjuv,Svalöv,Landskrona,Åstorp,Ängelholm,Höganäs",Vimmerby,1283,Varuproducerande kommuner,Helsingborgs stad
+Västerbottens län,Nordmaling,"Bjurholm,Örnsköldsvik,Umeå,Vännäs",Trollhättan,2401,Turism- och besöksnäringskommuner,Nordmalings kommun
+Skåne län,Åstorp,"Helsingborg,Bjuv,Svalöv,Klippan,Ängelholm",Stockholm,1277,Förortskommuner till storstäderna,Åstorps kommun
+Örebro län,Degerfors,"Lekeberg,Storfors,Kristinehamn,Gullspång,Laxå,Karlskoga",Eskilstuna,1862,Större städer,Degerfors kommun
+Skåne län,Landskrona,"Kävlinge,Helsingborg,Svalöv",Malmö,1282,Pendlingskommuner,Landskrona stad
+Blekinge län,Ronneby,"Karlshamn,Emmaboda,Tingsryd,Karlskrona",Örebro,1081,Pendlingskommuner,Ronneby kommun
+Skåne län,Simrishamn,"Kristianstad,Ystad,Tomelilla",Örebro,1291,Pendlingskommuner,Simrishamns kommun
+Västra Götalands län,Lidköping,"Götene,Skara,Vänersborg,Vara,Grästorp",Göteborg,1494,Förortskommuner till storstäderna,Lidköpings kommun
+Stockholms län,Nacka,"Lidingö,Stockholm,Värmdö,Tyresö,Huddinge",Skövde,0182,Pendlingskommuner,Nacka kommun
+Stockholms län,Stockholm,"Sollentuna,Järfälla,Sundbyberg,Ekerö,Lidingö,Nacka,Tyresö,Huddinge,Danderyd,Solna",Ludvika,0180,Pendlingskommuner,Stockholms stad
+Stockholms län,Lidingö,"Nacka,Stockholm,Vaxholm,Danderyd",Göteborg,0186,Större städer,Lidingö stad
+Norrbottens län,Gällivare,"Kiruna,Boden,Jokkmokk,Överkalix,Pajala",Värnamo,2523,Varuproducerande kommuner,Gällivare kommun
+Gävleborgs län,Söderhamn,"Ockelbo,Gävle,Hudiksvall,Bollnäs",Västerås,2182,Kommuner i tätbefolkad region,Söderhamns kommun
+Uppsala län,Enköping,"Heby,Håbo,Uppsala,Sala,Västerås",Östergötland,0381,Pendlingskommuner,Enköpings kommun
+Västra Götalands län,Trollhättan,"Uddevalla,Vänersborg,Alingsås,Ale,Lilla Edet,Essunga,Grästorp",Östersund,1488,Glesbygdkommuner,Trollhättans stad
+Skåne län,Tomelilla,"Simrishamn,Kristianstad,Ystad,Hörby,Sjöbo",Sundsvall,1270,Större städer,Tomelilla kommun
+Norrbottens län,Övertorneå,"Haparanda,Kalix,Överkalix,Pajala",Karlstad,2518,Kommuner i glesbefolkad region,Övertorneå kommun
+Västra Götalands län,Lilla Edet,"Stenungsund,Kungälv,Uddevalla,Vänersborg,Trollhättan,Ale",Göteborg,1462,Förortskommuner till storstäderna,Lilla Edets kommun
+Västerbottens län,Vännäs,"Vindeln,Nordmaling,Bjurholm,Umeå",Vilhelmina,2460,Glesbygdkommuner,Vännäs kommun
+Stockholms län,Huddinge,"Botkyrka,Nacka,Stockholm,Tyresö,Haninge",Malmö,0126,Pendlingskommuner,Huddinge kommun
+Västernorrlands län,Ånge,"Berg,Härjedalen,Ljusdal,Nordanstig,Hudiksvall,Bräcke,Sundsvall",Stockholm,2260,Förortskommuner till storstäderna,Ånge kommun
+Kronobergs län,Växjö,"Lessebo,Uppvidinge,Vetlanda,Tingsryd,Alvesta,Sävsjö",Övertorneå,0780,Glesbygdkommuner,Växjö kommun
+Skåne län,Vellinge,"Trelleborg,Malmö,Svedala",Pajala,1233,Glesbygdkommuner,Vellinge kommun
+Värmlands län,Grums,"Säffle,Arvika,Kil,Karlstad",Växjö,1764,Varuproducerande kommuner,Grums kommun
+Västra Götalands län,Tanum,"Munkedal,Sotenäs,Strömstad,Dals-Ed",Gävle,1435,Varuproducerande kommuner,Tanums kommun
+Dalarnas län,Hedemora,"Smedjebacken,Norberg,Hofors,Avesta,Falun,Säter",Västervik,2083,Kommuner i tätbefolkad region,Hedemora kommun
+Västra Götalands län,Vara,"Skara,Herrljunga,Essunga,Grästorp,Lidköping,Falköping",Umeå,1470,Större städer,Vara kommun
+Skåne län,Lund,"Trelleborg,Eslöv,Kävlinge,Lomma,Staffanstorp,Svedala,Sjöbo,Skurup",Bengtsfors,1281,Glesbygdkommuner,Lunds kommun
+Örebro län,Hällefors,"Storfors,Ludvika,Karlskoga,Nora,Filipstad,Lindesberg,Ljusnarsberg",Ljungby,1863,Varuproducerande kommuner,Hällefors kommun
+Västerbottens län,Åsele,"Bjurholm,Lycksele,Örnsköldsvik,Vilhelmina,Dorotea,Sollefteå",Stockholm,2463,Större städer,Åsele kommun
+Stockholms län,Botkyrka,"Södertälje,Nynäshamn,Salem,Ekerö,Huddinge,Haninge",Stockholm,0127,Turism- och besöksnäringskommuner,Botkyrka kommun
+Värmlands län,Forshaga,"Sunne,Munkfors,Kil,Karlstad,Hagfors",Jönköping,1763,Pendlingskommuner,Forshaga kommun
+Skåne län,Höör,"Eslöv,Hässleholm,Hörby,Klippan",Blekinge,1267,Kommuner i tätbefolkad region,Höörs kommun
+Västmanlands län,Fagersta,"Smedjebacken,Norberg,Skinnskatteberg,Sala,Surahammar",Östergötland,1982,Större städer,Fagersta kommun
+Västra Götalands län,Ulricehamn,"Borås,Herrljunga,Tranemo,Falköping,Mullsjö,Jönköping",Östersund,1491,Större städer,Ulricehamns kommun
+Västerbottens län,Dorotea,"Vilhelmina,Åsele,Strömsund,Sollefteå",Stockholm,2425,Pendlingskommuner,Dorotea kommun
+Skåne län,Staffanstorp,"Lomma,Burlöv,Lund,Malmö,Svedala",Mora,1230,Pendlingskommuner,Staffanstorps kommun
+Västernorrlands län,Härnösand,"Timrå,Sundsvall,Kramfors,Sollefteå",Kalmar,2280,Varuproducerande kommuner,Härnösands kommun
+Norrbottens län,Kiruna,"Gällivare,Pajala",Malmö,2584,Pendlingskommuner,Kiruna kommun
+Västra Götalands län,Uddevalla,"Munkedal,Stenungsund,Lysekil,Orust,Färgelanda,Vänersborg,Trollhättan,Lilla Edet",Härjedalen,1485,Turism- och besöksnäringskommuner,Uddevalla kommun
+Uppsala län,Håbo,"Upplands-Bro,Knivsta,Sigtuna,Uppsala,Enköping",Växjö,0305,Pendlingskommuner,Håbo kommun
+Jönköpings län,Eksjö,"Vetlanda,Hultsfred,Vimmerby,Ydre,Aneby,Nässjö",Tranås,0686,Pendlingskommuner,Eksjö kommun
+Östergötlands län,Ödeshög,"Mjölby,Boxholm,Tranås,Vadstena,Jönköping",Lidköping,0509,Kommuner i tätbefolkad region,Ödeshögs kommun
+Jämtlands län,Strömsund,"Krokom,Östersund,Vilhelmina,Dorotea,Sollefteå,Ragunda",Avesta,2313,Kommuner i tätbefolkad region,Strömsunds kommun
+Västra Götalands län,Lerum,"Göteborg,Partille,Bollebygd,Härryda,Alingsås,Ale",Halmstad,1441,Kommuner i tätbefolkad region,Lerums kommun
+Jämtlands län,Härjedalen,"Orsa,Berg,Älvdalen,Mora,Ånge,Ljusdal",Oskarshamn,2361,Varuproducerande kommuner,Härjedalens kommun
+Östergötlands län,Ydre,"Eksjö,Vimmerby,Boxholm,Kinda,Tranås,Aneby",Haparanda,0512,Kommuner i glesbefolkad region,Ydre kommun
+Blekinge län,Karlskrona,"Ronneby,Emmaboda,Torsås",Malmö,1080,Förortskommuner till större städer,Karlskrona kommun
+Västra Götalands län,Tjörn,Orust,Sundsvall,1419,Kommuner i glesbefolkad region,Tjörns kommun
+Skåne län,Burlöv,"Lomma,Staffanstorp,Malmö,Svedala",Nyköping,1231,Varuproducerande kommuner,Burlövs kommun
+Södermanlands län,Oxelösund,Nyköping,Karlstad,0481,Större städer,Oxelösunds kommun
+Östergötlands län,Norrköping,"Söderköping,Finspång,Linköping,Katrineholm,Nyköping",Trollhättan,0581,Större städer,Norrköpings kommun
+Gävleborgs län,Gävle,"Heby,Älvkarleby,Tierp,Ockelbo,Sandviken,Söderhamn",Jönköping,2180,Varuproducerande kommuner,Gävle kommun
+Skåne län,Sjöbo,"Eslöv,Lund,Ystad,Tomelilla,Hörby,Skurup",Örebro,1265,Varuproducerande kommuner,Sjöbo kommun
+Skåne län,Ystad,"Simrishamn,Tomelilla,Sjöbo,Skurup",Kiruna,1286,Kommuner i glesbefolkad region,Ystads kommun
+Västernorrlands län,Örnsköldsvik,"Nordmaling,Bjurholm,Kramfors,Åsele,Sollefteå",Skövde,2284,Varuproducerande kommuner,Örnsköldsviks kommun
+Västernorrlands län,Kramfors,"Härnösand,Örnsköldsvik,Sollefteå",Malmö,2282,Större städer,Kramfors kommun
+Östergötlands län,Boxholm,"Mjölby,Linköping,Kinda,Ydre,Tranås,Ödeshög",Eskilstuna,0560,Pendlingskommuner,Boxholms kommun
+Norrbottens län,Arjeplog,"Arvidsjaur,Sorsele,Jokkmokk",Stockholm,2506,Förortskommuner till storstäderna,Arjeplogs kommun
+Östergötlands län,Kinda,"Vimmerby,Västervik,Åtvidaberg,Linköping,Boxholm,Ydre",Malmö,0513,Varuproducerande kommuner,Kinda kommun
+Södermanlands län,Flen,"Strängnäs,Eskilstuna,Katrineholm,Gnesta,Nyköping",Värnamo,0482,Varuproducerande kommuner,Flens kommun
+Dalarnas län,Orsa,"Rättvik,Härjedalen,Mora,Ljusdal",Skövde,2034,Kommuner i tätbefolkad region,Orsa kommun
+Kalmar län,Kalmar,"Emmaboda,Nybro,Mönsterås,Torsås",Malmö,0880,Förortskommuner till storstäderna,Kalmar kommun
+Örebro län,Lindesberg,"Nora,Hällefors,Örebro,Ljusnarsberg,Smedjebacken,Skinnskatteberg,Köping,Arboga",Göteborg,1885,Förortskommuner till storstäderna,Lindesbergs kommun
+Västerbottens län,Norsjö,"Arvidsjaur,Vindeln,Malå,Lycksele,Skellefteå",Trollhättan,2417,Pendlingskommuner,Norsjö kommun
+Västerbottens län,Vindeln,"Norsjö,Bjurholm,Lycksele,Skellefteå,Umeå,Vännäs",Luleå,2404,Kommuner i glesbefolkad region,Vindelns kommun
+Stockholms län,Vallentuna,"Upplands Väsby,Sigtuna,Österåker,Norrtälje,Täby",Dorotea,0115,Turism- och besöksnäringskommuner,Vallentuna kommun
+Blekinge län,Karlshamn,"Olofström,Sölvesborg,Ronneby,Tingsryd",Malmö,1082,Förortskommuner till storstäderna,Karlshamns kommun
+Västra Götalands län,Kungälv,"Stenungsund,Göteborg,Ale,Lilla Edet",Malmö,1482,Kommuner i tätbefolkad region,Kungälvs kommun
+Västra Götalands län,Götene,"Skara,Mariestad,Lidköping,Skövde",Vetlanda,1471,Varuproducerande kommuner,Götene kommun
+Gävleborgs län,Sandviken,"Heby,Sala,Ockelbo,Hofors,Gävle,Avesta,Falun",Örebro,2181,Större städer,Sandvikens kommun
+Dalarnas län,Borlänge,"Ludvika,Leksand,Gagnef,Falun,Säter",Stockholm,2081,Kommuner i tätbefolkad region,Borlänge kommun
+Västra Götalands län,Skövde,"Götene,Skara,Mariestad,Töreboda,Tibro,Hjo,Falköping,Tidaholm",Västerås,1496,Pendlingskommuner,Skövde kommun
+Jämtlands län,Åre,"Berg,Krokom",Stockholm,2321,Förortskommuner till större städer,Åre kommun
+Stockholms län,Österåker,"Vallentuna,Norrtälje,Täby,Vaxholm",Karlskoga,0117,Pendlingskommuner,Österåkers kommun
+Västra Götalands län,Öckerö,Göteborg,Skövde,1407,Kommuner i tätbefolkad region,Öckerö kommun
+Stockholms län,Solna,"Sollentuna,Sundbyberg,Stockholm,Danderyd",Malung,0184,Turism- och besöksnäringskommuner,Solna stad
+Norrbottens län,Arvidsjaur,"Norsjö,Malå,Sorsele,Piteå,Skellefteå,Älvsbyn,Jokkmokk,Arjeplog",Stockholm,2505,Förortskommuner till storstäderna,Arvidsjaurs kommun
+Östergötlands län,Valdemarsvik,"Västervik,Söderköping,Åtvidaberg",Sorsele,0563,Glesbygdkommuner,Valdemarsviks kommun
+Uppsala län,Älvkarleby,"Tierp,Gävle",Stockholm,0319,Förortskommuner till storstäderna,Älvkarleby kommun
+Norrbottens län,Kalix,"Luleå,Haparanda,Övertorneå,Överkalix",Malmö,2514,Förortskommuner till större städer,Kalix kommun
+Norrbottens län,Överkalix,"Luleå,Boden,Gällivare,Övertorneå,Kalix,Pajala",Årjäng,2513,Glesbygdkommuner,Överkalix kommun
+Stockholms län,Nynäshamn,"Botkyrka,Haninge",Borås,0192,Kommuner i tätbefolkad region,Nynäshamns kommun
+Stockholms län,Tyresö,"Nacka,Stockholm,Huddinge,Haninge",Östersund,0138,Turism- och besöksnäringskommuner,Tyresö kommun
+Västra Götalands län,Åmål,"Säffle,Bengtsfors,Mellerud,Årjäng",Stockholm,1492,Förortskommuner till storstäderna,Åmåls kommun
+Skåne län,Hörby,"Eslöv,Hässleholm,Kristianstad,Tomelilla,Höör,Sjöbo",Kristianstad,1266,Kommuner i tätbefolkad region,Hörby kommun
+Värmlands län,Eda,"Arvika,Årjäng",Stockholm,1730,Förortskommuner till större städer,Eda kommun
+Värmlands län,Munkfors,"Sunne,Forshaga,Hagfors",Lidköping,1762,Varuproducerande kommuner,Munkfors kommun
+Västra Götalands län,Ale,"Kungälv,Göteborg,Alingsås,Lerum,Trollhättan,Lilla Edet",Stockholm,1440,Förortskommuner till storstäderna,Ale kommun
+Västra Götalands län,Tibro,"Töreboda,Karlsborg,Skövde,Hjo",Söderhamn,1472,Kommuner i glesbefolkad region,Tibro kommun
+Värmlands län,Storfors,"Karlstad,Kristinehamn,Degerfors,Karlskoga,Hällefors,Filipstad",Mora,1760,Kommuner i glesbefolkad region,Storfors kommun
+Stockholms län,Järfälla,"Upplands Väsby,Upplands-Bro,Sollentuna,Stockholm",Kristianstad,0123,Pendlingskommuner,Järfälla kommun
+Hallands län,Kungsbacka,"Mölndal,Göteborg,Mark,Varberg,Härryda",Malmö,1384,Pendlingskommuner,Kungsbacka kommun
+Skåne län,Ängelholm,"Helsingborg,Laholm,Örkelljunga,Klippan,Åstorp,Båstad",Stockholm,1292,Förortskommuner till storstäderna,Ängelholms kommun
+Gävleborgs län,Hofors,"Sandviken,Avesta,Falun,Säter,Hedemora",Blekinge,2104,Varuproducerande kommuner,Hofors kommun
+Kronobergs län,Ljungby,"Laholm,Hylte,Halmstad,Alvesta,Älmhult,Markaryd,Värnamo,Gislaved",Göteborg,0781,Pendlingskommuner,Ljungby kommun
+Dalarnas län,Leksand,"Rättvik,Mora,Vansbro,Gagnef,Falun,Borlänge",Halmstad,2029,Större städer,Leksands kommun
+Västra Götalands län,Orust,"Stenungsund,Uddevalla,Tjörn,Lysekil",Karlstad,1421,Förortskommuner till större städer,Orust kommun
