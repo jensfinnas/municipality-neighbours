@@ -33,8 +33,8 @@ class RegionList(object):
     def _transpose(self, data, fields):
         _data = []
         for row in data:
-            _row = {}
             for neighbour in row["neighbours"]:
+                _row = {}
                 for field in fields:
                     _row["a_%s" %field ] = row[field]
                     _row["b_%s" %field ] = neighbour[field]
